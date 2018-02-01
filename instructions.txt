@@ -1,0 +1,34 @@
+The package includes:
+
+- source code 
+- windows wallet 
+- linux wallet
+- premine wallet (wallet.dat)
+- logo
+
+Block Explorer: http://80.208.227.23:3001/
+
+
+Please notice that you might receive an error while opening the wallet for the first time: EXCEPTION: "stxxruntime_error", this happens because the wallet is compiled on a different computer. It's very common for wallet executables. In case it happens, just close the wallet and open it again to solve the problem.
+
+
+Specs
+
+X11 PoW/PoS Hybrid
+Name: DULY
+Ticker: DULY
+Premine 420,000,000
+Block reward: 5 DULY
+Total coins: 700,000,000
+Yearly interest: 5%
+
+P2P Port: 36550
+RPC Port: 36552
+
+
+PREMINE INSTRUCTIONS
+Open your wallet, wait a few seconds and close it. Open your coin appdata folder (example: C:\Users\YOURNAME\AppData\Roaming\duly), delete the wallet.dat file and copy the given wallet.dat. Open your wallet again. Premine will show as "unconfirmed" until POW mining starts.
+
+Thank you for ordering one of our services, if there's more that we can do for you please let us know.
+
+Kind regards - Sir Daniel
